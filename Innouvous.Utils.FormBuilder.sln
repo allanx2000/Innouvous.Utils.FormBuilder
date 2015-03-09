@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Innouvous.Utils.FormBuilder", "Innouvous.Utils.FormBuilder\Innouvous.Utils.FormBuilder.csproj", "{E19066AE-0060-45AE-BB0A-E0399191D652}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestFormBuilder", "TestFormBuilder\TestFormBuilder.csproj", "{1D6C6EDA-77EB-4774-B4BF-7D48449FA898}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E19066AE-0060-45AE-BB0A-E0399191D652}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E19066AE-0060-45AE-BB0A-E0399191D652}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E19066AE-0060-45AE-BB0A-E0399191D652}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E19066AE-0060-45AE-BB0A-E0399191D652}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D6C6EDA-77EB-4774-B4BF-7D48449FA898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D6C6EDA-77EB-4774-B4BF-7D48449FA898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D6C6EDA-77EB-4774-B4BF-7D48449FA898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D6C6EDA-77EB-4774-B4BF-7D48449FA898}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

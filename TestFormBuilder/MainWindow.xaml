@@ -1,0 +1,17 @@
+﻿<Window x:Class="TestFormBuilder.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0" Name="TestContainer">
+
+        </Grid>
+        
+        <Button Grid.Row ="1" Name="GetDataButton" Click="GetDataButton_Click">Get Data</Button>
+    </Grid>
+</Window>
